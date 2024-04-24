@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Database\Factories;
+namespace GLisandro\AssetManagerPackage\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 

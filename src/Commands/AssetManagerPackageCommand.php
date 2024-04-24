@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace GLisandro\AssetManagerPackage\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class AssetManagerPackageCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'asset-manager-package';
 
     public $description = 'My command';
 
